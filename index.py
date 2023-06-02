@@ -6,17 +6,17 @@ st.title("Muwahahhahaha! Here my shitty test")
 #header
 st.header("Mmm.. A cAlcUlAtOr? ..")
 
-#subheader
-st.subheader("bae jus said tht she hates me T.T ... hee she said it in cute way tho keke")
+# #subheader
+# st.subheader("bae jus said tht she hates me T.T ... hee she said it in cute way tho keke")
 
-#information 
-st.info("SO yeah THIS IS MY SHIT down there")
+# #information 
+# st.info("SO yeah THIS IS MY SHIT down there")
 
-#warning
-st.warning("U r going to Die in 3mins . . ....")
+# #warning
+# st.warning("U r going to Die in 3mins . . ....")
 
-#write
-st.write("write a name tht u wanna kill here. .. .. .x")
+# #write
+# st.write("write a name tht u wanna kill here. .. .. .x")
 
 n1 = st.number_input('Number a:')
 st.title("+")
