@@ -39,6 +39,7 @@ if(st.button('Calculate BMI')):
     if (weight==0 or height==0):
         st.text("Enter some value of height and weight")
     else:
+        bmi = weight / ((height/100)**2)
         st.text("Your BMI Index is {}.".format(bmi))
 
         if(bmi<16):
